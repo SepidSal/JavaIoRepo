@@ -19,4 +19,10 @@ Contents:
 -	File Writer
 -	Char Array Writer
 -	Data Output Stream
--	
+-	Create Directory
+-	Create File
+-	Delete File
+-	File Path
+-	Move File
+-	Rename File
+
