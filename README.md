@@ -24,5 +24,8 @@ Contents:
 -	Delete File
 -	File Path
 -	Move File
--	Rename File
+-	Rename File 
+- Read Random
+- Read Random File
+- Write Random 
 
